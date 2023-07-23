@@ -1,4 +1,7 @@
-#
+#Github connection----
+library(usethis)
+use_git()
+use_github()
 #Libraries----
 library(tidyverse)
 library(lubridate)
